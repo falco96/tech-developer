@@ -1,0 +1,20 @@
+#iMieiClienti{
+	padding-top: 6em;
+	padding-bottom: 6em;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/myCustomers.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+#iMieiClienti h2{color: white; cursor: pointer;}
+#iMieiClienti h2:hover{color: black;}
+.carousel{
+	background: transparent;
+	color: black;
+	padding-top: 3em;
+	padding-bottom: 3em;
+
+}
+
+.carousel img{width: 30%; height: 10%;}

@@ -1,0 +1,12 @@
+#collaborazioni{
+	padding-top: 6em;
+	padding-bottom: 6em;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/myCollaborations.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+#collaborazioni h3{color: white; font-weight: bold; letter-spacing: 1em; cursor: pointer;}
+#collaborazioni h3:hover{color: black;}
+
+#collaborazioni a{color: white;}
+#collaborazioni a:hover{text-decoration: none; color: black;}

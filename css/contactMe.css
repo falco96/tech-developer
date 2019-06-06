@@ -1,0 +1,22 @@
+#contattami{
+	padding-top: 6em;
+	padding-bottom: 6em;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/contactMe.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#contattami h2{margin-bottom: 2em; color: white;}
+#contattami h2:hover{color: grey;}
+
+#contattami input{background: transparent; color: white; border: none;}
+
+#contattai input:placeholder{color: white;}
+
+#contattami textarea{background: transparent; color: white; border: none;}
+
+#contattami a{color: white;}
+
+#contattami a:hover{color: black; text-decoration: none;}
+
+#contattami i{color: white;}

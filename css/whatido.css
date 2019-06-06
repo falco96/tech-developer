@@ -1,0 +1,12 @@
+#cosaFaccio{
+	padding-top: 6em;
+	padding-bottom: 6em;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../img/whatIDo.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#cosaFaccio h2{color: grey; font-weight: bold; letter-spacing: 1em;}
+#cosaFaccio h2:hover{color: white;}
+
+#cosaFaccio i{font-size: 50px; color: white; padding: 1.5em; cursor: pointer;}

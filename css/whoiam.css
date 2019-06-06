@@ -1,0 +1,23 @@
+#chiSono{
+	padding-top: 6em;
+	padding-bottom: 6em;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../img/whoiam.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	margin-top: 0;
+}
+
+#chiSono h2{color: white; font-weight: bold; letter-spacing: 1em;}
+#chiSono h2:hover{color: black;}
+
+#chiSono .row{padding: 1em;}
+
+#chiSono .card{background-color: rgba(0,0,0,0.7); padding: 0.2em;}
+
+#chiSono .card p{color: white;}
+
+#chiSono .card .card-title{color: #6da5ff; cursor: pointer;}
+
+#chiSono .card .card-title:hover{color: #5194ff;}
+
+.modal-content .form-inline input{margin-right: 0.2em;}
